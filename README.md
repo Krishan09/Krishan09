@@ -11,4 +11,3 @@
 
 🎨 Fun Fact- In my free time, I enjoy contributing to open-source, gaming, and photography.
 
-Languages and skills:
