@@ -13,4 +13,5 @@
 
 Languages and skills:
 
-javascript react bootstrap css3 html5 express nodejs
+![image](https://github.com/user-attachments/assets/1812cd5f-aa4e-4d2d-8958-4cd8313c3c4d)
+react bootstrap css3 html5 express nodejs
